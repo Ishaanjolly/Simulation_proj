@@ -1,4 +1,4 @@
-# Simulation_project
+# Simulation Project
 The Simulation Project was done as per the requirement laid out by our course instructor Dr Burak Buke. The project was done jointly by Jing Ting Chong and Ishaan Jolly and used a combination of cutting edge technologies such as Simul8 and Microsoft Excel. 
 
 The repository contains following documents: 
